@@ -1,4 +1,4 @@
-package ru.paveldik.merge_sort.sorter;
+package ru.paveldik.merge_sort.sorters;
 
 import ru.paveldik.merge_sort.arguments.Arguments;
 

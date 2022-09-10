@@ -1,8 +1,8 @@
 package ru.paveldik.merge_sort.main;
 
 import ru.paveldik.merge_sort.arguments.Arguments;
-import ru.paveldik.merge_sort.integers_sorter.IntegersSorter;
-import ru.paveldik.merge_sort.strings_sorter.StringsSorter;
+import ru.paveldik.merge_sort.sorters.IntegersSorter;
+import ru.paveldik.merge_sort.sorters.StringsSorter;
 
 import java.util.Arrays;
 

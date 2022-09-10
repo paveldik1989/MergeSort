@@ -1,7 +1,6 @@
-package ru.paveldik.merge_sort.integers_sorter;
+package ru.paveldik.merge_sort.sorters;
 
 import ru.paveldik.merge_sort.arguments.Arguments;
-import ru.paveldik.merge_sort.sorter.Sorter;
 
 import java.util.Scanner;
 
